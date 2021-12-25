@@ -1,0 +1,7 @@
+webapp:
+  numberOfWebAppReplicas: 1
+
+dockerRepoName: richardchesterwood
+
+# "prod" or "dev"
+environment: dev
